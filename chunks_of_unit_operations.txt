@@ -1,0 +1,238 @@
+**Page 1**
+"Guidelines for SC Students to Apply Online for Scholarship Schemes through Digital Gujarat
+Portal for the Academic Year 2024-25"
+**Issued by:**
+Director, Scheduled Caste Welfare,
+Government of Gujarat, Gandhinagar
+**Page 2**
+### Important Instructions for SC Students on Applying for Online Scholarship Schemes
+Through the Digital Gujarat Portal (https://www.digitalgujarat.gov.in):
+1. **First-Time Registration**: Students need to open the Digital Gujarat Portal, select the
+“Login” option, click on “Citizen Login/Registration,” then click on “New Registration (Citizen)” to
+create a new account. Registration requires an email ID, mobile number, and password, which
+students should keep secure for future use. Both email ID and mobile number are mandatory,
+as this mobile number will remain associated with the student’s account until the completion of
+studies or scholarship benefit duration.
+2. **Returning Users**: If a student has already registered on the Digital Gujarat Portal (for
+instance, if they applied for a scholarship in a previous academic year, for tablet assistance, or
+for any other schemes available through the portal), they do not need to re-register. Instead,
+they can log in with their existing credentials (Login ID and Password) and directly apply for
+relevant schemes.
+3. **Forgotten Password**: If students forget their previous year’s password, they can click on
+“Forget Password,” enter their registered mobile number, and receive a One-Time Password
+(OTP) to reset their password. Following the reset, the mobile number will be used as the User
+ID, and the newly set password will be valid for future logins.
+4. **Changing Mobile Number**: If a student’s registered mobile number is lost or deactivated,
+they should contact their district’s SC/ST/OBC welfare office to verify their identity and update
+their mobile number in their profile.5. **Scholarship Services Access**: Once logged in, students should go to “Services” in the
+menu and click on “Scholarship Services” to access and complete the online application
+process. No applications will be accepted from other sources, and all students must make a
+note of this.
+6. **Selecting Financial Year**: After clicking on the “Scholarship Services” option, students
+should select the appropriate academic year (2024-25) under the “Select Financial Year”
+dropdown to apply for a new service or scholarship scheme.
+1. For New Service Requests: To apply for scholarships for the 2024-25 academic year,
+students who submitted an online application in 2023-24 and received the scholarship
+per the guidelines will have their applications automatically moved to "Renewal" mode.
+Therefore, these students do not need to submit a new application. By clicking the
+"Renewal" button, they must verify and update all details, including Registration Details,
+Bank Details, Academic Details, Disability Details (if applicable), and upload required
+documents. (Students must scan and upload original documents.)
+2. If Renewal Option is Unavailable: If the scholarship was granted in the previous year
+but does not appear in "Renewal" mode, students should click "Request a New Service,"
+select the financial year 2024-25, choose the applicable scheme, and complete the
+application form.
+3. Application Process on Digital Gujarat Portal:
+o Open the Digital Gujarat Portal, click on "Login," select "Citizen
+Login/Registration," and log in using your ID and Password.
+o Navigate to "Services" > "Scholarship Services" > "Request a New Service."
+o In the dropdown under "Select Financial Year," select 2024-25.
+o Under the "Director Scheduled Caste Welfare" section, find and click on the
+scheme applicable to you, then click "Continue to Service."
+4. Entering Personal Details: After selecting the scheme, the student must carefully
+complete all required fields in the Registration Details, Bank Details, Academic Details,
+Disability Details (if applicable), and upload all necessary documents as attachments.
+(All documents must be scanned and uploaded in their original form.)
+5. Final Submission: After verifying all details and uploading documents, students must
+upload a passport-size photo. Upon completion, click "Verify Mobile Number" to receive
+an OTP on your mobile. After entering the OTP, click "Final Submit" to submit your
+application. Once submitted, the application will be sent to the respective
+school/college/institution's login for approval. After submission, students are advised to
+print a copy of the application for future reference and submit it along with necessary
+documents to their school/college/institution.
+Note: Students should only upload original, verified documents as requested by the authority.Important Instructions for SC Students (Academic Year 2024-25)
+1. Application Period: Eligible SC students should apply online through the Digital Gujarat
+Portal from October 9, 2024, to November 10, 2024, to receive scholarships or financial
+assistance for the academic year 2024-25.
+2. Aadhaar-Based Biometric eKYC:
+o The Government of Gujarat has mandated Aadhaar-Based Biometric eKYC for all
+scholarship applications for 2024-25 under the Post Matric Scholarship
+schemes (BCK6.1 - With and Without Freeship Card).
+o In coordination with the state’s Civil Supplies Department, Aadhaar-Based
+Biometric eKYC is implemented through the Ration Card database to verify
+students’ identities online. Separate biometric verification for eKYC is not
+required if it is already completed with the Civil Supplies Department.
+o How to Complete eKYC:
+1. Using the "My Ration" mobile application (Link: My Ration App).
+2. Visiting the Civil Supplies section of the Mamlatdar office or the zonal
+office of the Municipal Corporation in your area.
+3. Completing eKYC at your Gram Panchayat office through a VCE (Village
+Computer Entrepreneur).
+4. School principals may also assist with this verification.
+Students must have their name and Aadhaar number linked to a Ration Card for Aadhaar-Based
+Biometric eKYC.
+3. Family ID Project:
+o Under the Family ID project, students applying for scholarships are required to
+provide their Aadhaar number, Ration Card number, and Ration Card Member ID.
+When filling out the online application, students should enter their Ration Card
+Member ID, and the details will automatically be retrieved from the Ration Card
+database via API service.
+o School authorities must verify the fetched data and ensure that the eKYC details
+belong to the correct student to avoid any errors in scholarship approval.
+4. Scholarship Disbursement Process:
+o Starting from the academic year 2022-23, the Post Matric Scholarship scheme
+distributes funds based on a 40% contribution from the state government and
+60% from the central government. All students are required to link their Aadhaar
+number with their bank account as the scholarship amount is deposited directly
+into their account.
+5. Hostel Certificate:o Students residing in hostels should download the Hostel Residence Certificate
+from the Digital Gujarat Portal. This certificate must be signed and stamped by
+the authorized hostel official and then uploaded during the application process.
+o The certificate is available on the “Instruction” page during the application
+process.
+6. Out-of-State Applications:
+o SC students who are permanent residents of Gujarat but studying in recognized
+institutions outside the state should also apply through the Digital Gujarat
+Portal. After completing the online application, they should submit a copy of all
+required documents, including proof of institutional recognition, course
+approval, and fee receipt, along with the forwarded letter to the SC Welfare
+Office in their home district.
+When filling out the “Registration Detail > Current Address State” field in the scholarship form,
+students studying outside Gujarat should select a state other than Gujarat.
+1. For SC Students with Freeship Card Admission:
+o Students who have secured admission under the Freeship Card should apply
+only under the scheme "(BCK-6.1) Post Matric Scholarship for SC Students (GOI)
+(Freeship Card Students Only)." As per new guidelines from the Government of
+India, effective from the academic year 2021-22, the tuition fee will be directly
+deposited into the student’s bank account.
+o After the scholarship amount is credited to the student’s account, they must pay
+the required fee to their college or institution within 7 days. If the student fails to
+make the payment within the stipulated time, the respective college/institution
+may take necessary action as per regulations. (Students are advised to take note
+of this.)
+o Students with a Freeship Card who do not apply online and do not receive a
+scholarship will be responsible for this oversight.
+2. Application Status and Document Submission:
+o If a student has submitted the online application but has not completed the final
+submission or has not submitted the required documents to their institution,
+their application will not be considered.
+o It is the student’s responsibility to ensure their bank account complies with the
+bank’s Know Your Customer (KYC) norms. Scholarship payments are directly
+credited to bank accounts linked to the student’s Aadhaar number. If incorrect
+bank account details are entered in the form, and the scholarship is credited to
+another account, the student will bear full responsibility.
+3. Dormant Accounts:o If a student’s bank account has been inactive for an extended period (no
+transactions or withdrawals), it may be classified as dormant. Scholarship funds
+cannot be credited to dormant accounts. Therefore, students should ensure
+their bank account is active to avoid delays in scholarship deposits.
+4. Accuracy in Academic Details:
+o Students must carefully select their institution and course details. If incorrect
+information is provided, the application may be sent to another
+school/college/university. Any issues arising from this will be the student's
+responsibility.
+o If a student cannot find their course details in the selection menu, they should
+contact their institution. The institution can add the relevant course under their
+login, allowing the student to select it after some time.
+5. Application Integrity:
+o Any false information provided by the student or documents submitted with
+errors will disqualify them from reapplying for scholarships in the future. If a
+student attempts to obtain a scholarship through misrepresentation, they may
+be blacklisted, and their application rejected. Students are strongly advised to
+avoid any attempts at misrepresentation.
+6. Avoiding Delays in Application:
+o Students should not wait until the deadline to complete their application. They
+are encouraged to submit the form in a timely manner, following all instructions
+provided by their institution.
+7. Academic Year Information:
+o Students should obtain the academic year deadline for submission from their
+institution. (For annual courses, an annual deadline is required, not semester-
+based).
+8. Document Submission:
+o Students must upload their 10th-grade mark sheet and final-year mark sheets
+for all completed courses after 10th grade. These documents must be scanned
+and uploaded in their original form and submitted to their institution.
+Issued by:
+Director, Scheduled Caste Welfare,
+Government of Gujarat, Gandhinagar
+Details of Post Matric Scholarship / Assistance Schemes through Digital Gujarat Portal
+(Year: 2024-25)The table provides a summary of various scholarship schemes for Scheduled Caste (SC)
+students in Gujarat, including eligibility based on income limits, academic levels, and types of
+assistance provided. Each scheme includes maximum financial limits, with certain conditions
+or prerequisites for eligibility.
+Summary of Scholarship and Financial Assistance Schemes:
+Income Limit /
+No. Scheme Name Eligible Additional Remarks
+Assistance
+- For eligible students in grade 11
+Post Matric Scholarship for SC Income limit up
+1 and higher education. Excludes
+Students (GOI) (BCK-6.1) to ₹2.5 Lakhs
+Freeship Card holders.
+- For Freeship Card holders only.
+Post Matric Scholarship for SC Starting from the 2021-22 academic
+Income limit up
+1A Students (GOI) (Freeship Card year, scholarship funds are
+to ₹2.5 Lakhs
+Holders Only) (BCK-6.1) deposited directly into the student’s
+bank account.
+- ₹1500 monthly for 10 months,
+Food Bill Assistance for SC Income limit up
+2 applicable to students living in
+Students (BCK-10) to ₹6 Lakhs
+institution-affiliated hostels.
+- M.Phil. students receive ₹25,000;
+Fellowship Scheme for M.Phil., Income limit up Ph.D. students receive ₹1,00,000.
+3
+Ph.D. for SC Students (BCK-11) to ₹6 Lakhs Funds are granted upon thesis
+submission.
+- ₹10,000 for Medical students,
+Instrumental Help to SC Students
+Income limit up ₹8,000 for Engineering, and ₹3,000
+4 (Medical, Engineering, Diploma
+to ₹6 Lakhs for Diploma students in their first
+Students Only) (BCK-12)
+year.
+Scholarship/Stipend to SC
+Income limit up - ₹400 monthly for students
+5 Students for ITI/Professional
+to ₹6 Lakhs enrolled in ITI courses.
+Courses (BCK-13)
+Post Matric Scholarship for SC - For eligible female students from
+Girls (Income Above ₹2.5 Lakhs) Income above grade 11 through higher education,
+6
+(State Government Scheme) (BCK- ₹2.5 Lakhs awarded based on securing a
+5) minimum of 50% marks in exams.
+- Exclusively for female Freeship
+Post Matric Scholarship for SC
+Card holders pursuing higher
+Girls (Freeship Card Holders Only) Income above
+6A education. Assistance is provided
+(State Government Scheme) (BCK- ₹2.5 Lakhs
+based on achieving a minimum of
+5)
+50% in exams.Income Limit /
+No. Scheme Name Eligible Additional Remarks
+Assistance
+Private Tuition Coaching - For students in science stream in
+Assistance for SC Students Income limit up grades 11 and 12, assistance of
+7
+(Science Stream, Std:11-12) (BCK- to ₹6 Lakhs ₹15,000 per grade. Requires a
+7) minimum of 70% in grade 10.
+- Assistance of ₹1000 for SC
+Tablet Assistance to SC Students
+8 No income limit students who received a tablet
+(BCK-353)
+under the state’s Tablet Scheme.
+Note:
+All information provided is a guideline. Final interpretation and eligibility are subject to
+government resolutions. These schemes are exclusively for SC students.
