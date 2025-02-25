@@ -7,7 +7,9 @@ index=faiss.read_index("embeddings_index.faiss")
 
 print(f"Loaded {index.ntotal} embeddings from the FAISS index.")
 
-model = SentenceTransformer('all-MiniLM-L6-v2')
+# model = SentenceTransformer('all-MiniLM-L6-v2')
+model = SentenceTransformer('all-mpnet-base-v2')   #better for retervial --
+
 
 def generate_query_embedding(query):
     # Generate an embedding for the user's query

@@ -7,22 +7,17 @@ o Click on “Citizen Login/Registration” and then select “New Registration 
 register.
 o Registration requires an Email ID, Mobile Number, and Password.
 o The credentials must be saved securely for future use.
-o A valid mobile number and email ID ar---------------rd.
-o The credentials must be saved securely for future use.
 o A valid mobile number and email ID are mandatory (Ensure that the registered
 mobile number remains active as it will be used for updates regarding scholarships
 and assistance).
 o After registration, students must use their registered mobile number or Email ID as
 the username and their created password to log in.
 o Once logged in, students must update their profile (My Profile). Only after updating
-the profile can they apply online fo---------------nts must update their profile (My Profile). Only after updating
 the profile can they apply online for scholarships.
 2. For Previously Registered Students:
 o If students have already registered on the Digital Gujarat Portal in the past (for
 scholarships, tablet schemes, or other services), they do not need to register again.
 o They should log in using their existing Login ID and Password to apply for the
-relevant scheme directly.
-o If a student has forgotten their password, they must click on “Fo---------------or the
 relevant scheme directly.
 o If a student has forgotten their password, they must click on “Forget Password”,
 receive an OTP on their registered mobile number, and create a new password.
@@ -31,7 +26,6 @@ ID.
 o The Forget Password option is available on the Digital Gujarat Portal login page.
 3. Updating Mobile Number:
 o If a student's registered mobile number is lost or deactivated, they must visit the
-nearest SC/ST/OBC welf---------------tudent's registered mobile number is lost or deactivated, they must visit the
 nearest SC/ST/OBC welfare office to verify their identity and update their mobile
 number in the profile.
 4. Applying for Scholarships Online:
@@ -39,7 +33,6 @@ o After logging in, students must go to "Services" and then click on "Scholarshi
 Services".
 o This is the only official way to apply for scholarships online.
 5. Selecting the Financial Year:o After clicking on "Scholarship Services", students will see a dropdown menu listing
-fin---------------ncial Year:o After clicking on "Scholarship Services", students will see a dropdown menu listing
 financial years from 2017-18 to 2023-24.
 o If a student had applied for a scholarship in a previous year, they can view their past
 applications.
@@ -47,8 +40,6 @@ o For new applications for the year 2024-25, students must click on "Request a N
 Service" and select the Financial Year 2024-25.
 o
 Renewal and New Application Process for Post Matric
-Scholarship for SC Students
-1. Automatic Renewal for Previous Applicants:---------------on Process for Post Matric
 Scholarship for SC Students
 1. Automatic Renewal for Previous Applicants:
 o Students who applied online in the 2023-24 academic year and successfully received
@@ -58,16 +49,12 @@ o Such students do not need to reapply manually.
 o They must click on the “Renewal” button, verify all their details, including:
  Registration Details
  Bank Details
- Academic---------------newal” button, verify all their details, including:
- Registration Details
- Bank Details
  Academic Details
  Disability Details (if applicable)
 o They must upload any required documents and then submit the application online.
 o (Students must scan and upload original documents as required.)
 2. If Automatic Renewal is Not Available:
 o If a student's application is not automatically renewed, they must apply manually.
-o Click on "Request a New Service" and select Financial Year 2024-25 from the d---------------must apply manually.
 o Click on "Request a New Service" and select Financial Year 2024-25 from the drop-
 down menu.
 o Choose the appropriate scholarship scheme and complete the application process.
@@ -75,8 +62,6 @@ o Choose the appropriate scholarship scheme and complete the application process
 o Open the Digital Gujarat Portal (https://www.digitalgujarat.gov.in).
 o Click on “Login”, then go to “Citizen Login/Registration” and log in with your ID and
 Password.
-o After logging in, go to “Services” → “Scholarship Services” and click on “Request a
-New Se---------------ssword.
 o After logging in, go to “Services” → “Scholarship Services” and click on “Request a
 New Service”.
 o Select Financial Year 2024-25 from the drop-down menu.o Under the heading “Director Scheduled Caste Welfare”, select the relevant scheme
@@ -87,15 +72,12 @@ o Click “Continue to Service” and fill in all necessary details:
  Academic Details
  Disability Details (if applicable)
 4. Uploading Documents and Final Submission:
-o Students must scan ---------------isability Details (if applicable)
-4. Uploading Documents and Final Submission:
 o Students must scan and upload all required documents in the Attachment section.
 o After verifying all details and uploading documents, they must upload a passport-
 size photo.
 o Click on "Verify Mobile Number", receive an OTP on the registered mobile number,
 and enter it for verification.
 o Finally, submit the application by clicking "Final Submit".
-o Once submitted, the application will be forwarded to the respecti---------------tion by clicking "Final Submit".
 o Once submitted, the application will be forwarded to the respective
 school/college/institution for verification.
 o After submitting the online application, students must download and print the final
@@ -104,7 +86,6 @@ school/college/institution.
 Important Instructions for SC Students
 (Academic Year 2024-25)
 1. Scholarship Application Period:
-o Eligible Scheduled Caste (SC) students must apply online for sch---------------. Scholarship Application Period:
 o Eligible Scheduled Caste (SC) students must apply online for scholarships/financial
 assistance on the Digital Gujarat Portal between October 9, 2024, and November
 10, 2024.
@@ -112,14 +93,10 @@ assistance on the Digital Gujarat Portal between October 9, 2024, and November
 o The Government of India has made Aadhaar-Based Biometric eKYC mandatory for
 all Post Matric Scholarship schemes (BCK6.1 - With and Without Freeship Card)
 from the academic year 2024-25.
-o Aadhaar eKYC has already been integrated int---------------ithout Freeship Card)
-from the academic year 2024-25.
 o Aadhaar eKYC has already been integrated into the ration card database by the
 Food and Civil Supplies Department of the State Government.
 o Other departments will verify eKYC using the same API Service and database,
 eliminating the need for separate Aadhaar-based biometric eKYC.o Digital Gujarat Portal has already been integrated with Aadhaar eKYC, allowing
-students to verify their details online by entering their Ration Card Member ID.
-o S--------------- eKYC, allowing
 students to verify their details online by entering their Ration Card Member ID.
 o Students whose Aadhaar-Based Biometric eKYC status is "Yes" will be able to
 submit their online application.
@@ -128,8 +105,6 @@ Students can complete the eKYC verification through the following methods:
 o “My Ration” Mobile Application (Download Link:
 https://play.google.com/store/apps/details?id=gujarat.banaskantha.myration&pca
 mp aignid=web_share)
-o Visiting the Mam---------------e.com/store/apps/details?id=gujarat.banaskantha.myration&pca
-mp aignid=web_share)
 o Visiting the Mamlatdar Office (Civil Supplies Department) or Zonal Office
 (Municipal Corporation)
 o Through Village Panchayat Centers (VCEs)
@@ -137,8 +112,6 @@ o By contacting school/college principals
 Note:
 o Students must have a valid ration card with their name on it and their Aadhaar
 number linked to the ration card to complete eKYC.
-4. Family ID Project:
-o Under the Post Matric Scholarship Scheme, the State Government has made---------------KYC.
 4. Family ID Project:
 o Under the Post Matric Scholarship Scheme, the State Government has made it
 mandatory to link:
@@ -149,7 +122,6 @@ o These details will be collected online when students enter their Ration Card
 Member ID and click on "Get Details".
 o The system will fetch the details from the ration card database via API integration.
 o Students and their college/school authorities must ensure the eKYC details are
-correctly linked to avoid misu---------------and their college/school authorities must ensure the eKYC details are
 correctly linked to avoid misuse of data.
 5. Scholarship Payment System (Aadhaar-Based Direct Transfer):
 o Since 2022-23, the Post Matric Scholarship Scheme follows a 40% contribution
@@ -157,15 +129,12 @@ from the State Government and 60% from the Central Government.
 o Scholarships are credited directly into students' bank accounts linked with
 Aadhaar.
 o Important: Students must ensure their Aadhaar is linked to their bank account for
-scholarship ---------------ar.
-o Important: Students must ensure their Aadhaar is linked to their bank account for
 scholarship payments.6. For Students Residing in Hostels:
 o Students staying in hostels must download their Hostel Certificate from the Digital
 Gujarat Portal, get it signed and stamped by the hostel warden, and upload it
 online while applying.
 7. For Students Studying Outside Gujarat (Out-State Students):
 o SC students who are permanent residents of Gujarat but studying in other states
-must also apply online--------------- students who are permanent residents of Gujarat but studying in other states
 must also apply online through the Digital Gujarat Portal.
 o They must submit their application along with:
  Copies of uploaded documents
@@ -175,22 +144,17 @@ o They must submit their application along with:
  Forwarding letter from their institution
  Submit all documents to their district SC Welfare Office in Gujarat
 Important:
-o While filling out the application, students studying outside--------------- Welfare Office in Gujarat
-Important:
 o While filling out the application, students studying outside Gujarat must select
 their current address state as other than Gujarat in the Registration Details section.
 8. For Students Admitted via Freeship Card:
 o Students admitted under Freeship Card should apply only under (BCK-6.1) Post
 Matric Scholarship for SC Students (GOI) (Freeship Card Students Only).
 o As per the Government of India's guidelines (from 2021-22), even tuition fees will
-be directly ---------------).
-o As per the Government of India's guidelines (from 2021-22), even tuition fees will
 be directly credited to students' bank accounts.
 o Students must submit their fee amount to their college within 7 days of receivingImportant Instructions for Students Regarding
 Online Scholarship Applications
 1. Final Submission and Document Verification:
 o If a student has filled the online application but has not done the final submission
-or has not submitted the required documents to their institution, th---------------s not done the final submission
 or has not submitted the required documents to their institution, their application
 will not be considered.
 2. Bank Account Requirements:
@@ -199,8 +163,6 @@ Customer) requirements.
 o If incorrect bank details are entered while filling out the form, and the scholarship
 amount is credited to another account, the student will be solely responsible.
 3. Dormant Bank Accounts:
-o If a student’s bank account has be---------------e student will be solely responsible.
-3. Dormant Bank Accounts:
 o If a student’s bank account has been inactive for a long time (i.e., no deposits or
 withdrawals), it may be classified as dormant by the bank.
 o In such cases, scholarship payments cannot be processed.
@@ -208,15 +170,11 @@ o Students must check with their bank and reactivate their account before applyi
 4. Correct Selection of Academic Details:
 o Students must carefully select their institution and course details while filling out
 the application.
-o---------------ents must carefully select their institution and course details while filling out
-the application.
 o If a student mistakenly selects the wrong institution or course, their application
 might be sent to the wrong school/college/university, and the institution will not
 be responsible for any issues arising from this mistake.
 5. Missing Course Details in the System:
 o If a student does not find their course listed in the Digital Gujarat Portal, they must
-contact their institution.
-o The institution ---------------course listed in the Digital Gujarat Portal, they must
 contact their institution.
 o The institution will update the course details in the system, after which the student
 can select it while applying.
@@ -224,7 +182,6 @@ can select it while applying.
 o If a student provides incorrect or false information, their application will be
 permanently rejected.
 o If a student attempts to fraudulently obtain a scholarship, legal action may be
-taken, and they will be blacklisted from receiving future scholarship---------------holarship, legal action may be
 taken, and they will be blacklisted from receiving future scholarships.
 o Students must ensure all entered details are accurate before submission.
 7. Submission Deadline:
@@ -232,7 +189,6 @@ o Students should not wait until the last date to apply.o They must follow their
 possible.
 8. Annual Verification Date:
 o Students must confirm the verification date from their institution.
-o Only the annual date needs to be entered while ap---------------rm the verification date from their institution.
 o Only the annual date needs to be entered while applying. Semester-wise dates are
 not required.
 9. Marksheet Submission:
@@ -242,15 +198,11 @@ o Students must upload their final mark sheets for all academic years, including
 o These documents must also be submitted to the institution.
 o (Students must scan and upload original documents on the portal.)
 10. Academic Gap Declaration:
- If a student has--------------- scan and upload original documents on the portal.)
-10. Academic Gap Declaration:
  If a student has had an academic gap (i.e., has not studied for a period after Class 10), they
 must submit a self-declaration letter confirming that they did not receive any scholarships
 during the gap period.
  This document must be uploaded online and submitted to the institution.
 11. Changes After Final Submission:
- Once a student has submitted the application, no modifications can be made.
- If changes are r---------------on:
  Once a student has submitted the application, no modifications can be made.
  If changes are required, the institution must return the application to the student for
 necessary corrections.
@@ -258,15 +210,12 @@ necessary corrections.
  (The portal now has a "Withdraw" option, allowing students to cancel their application
 and reapply if the institution has not yet processed it.)
 12. Application Through E-Gram Centers:
- Students can also apply onl---------------ion has not yet processed it.)
-12. Application Through E-Gram Centers:
  Students can also apply online through E-Gram Centers.
 13. No Offline Processing of Scholarships:
  The entire scholarship process is online.
  No offline scholarship applications will be accepted.
  Students and institutions must ensure they follow the online application procedure.14. Helpline for Technical Issues:
  If students face any difficulties while filling out the application, they can contact the Digital
-Gujarat P---------------ents face any difficulties while filling out the application, they can contact the Digital
 Gujarat Portal Helpline at 18002335500.
 Important Details to Note Before Filling the Online Application Form
 Things to Keep in Mind:
@@ -274,7 +223,6 @@ Things to Keep in Mind:
 o Students must have a valid email ID before filling out the online application.
 o If they do not have one, they should create an email ID immediately.
 2. Active Mobile Number:
-o During the online application, students will receive an OTP (One Time Password---------------tive Mobile Number:
 o During the online application, students will receive an OTP (One Time Password)
 on their registered mobile number.
 o Important messages and notifications regarding scholarships will also be sent to
@@ -283,7 +231,6 @@ o Students must ensure that their mobile number remains active until the
 scholarship is received.
 3. Aadhaar-Linked Bank Account:
 o Since 2022-23, the Post Matric Scholarship Scheme follows a 40% contribution
-from the State Government and 60% from the Central Governm---------------larship Scheme follows a 40% contribution
 from the State Government and 60% from the Central Government.
 o The scholarship amount will only be credited to Aadhaar-linked bank accounts.
 Required Documents for Scholarship Application:
@@ -292,17 +239,11 @@ Students must scan and upload original copies of the following documents before 
 o Issued by the competent authority verifying the student’s Scheduled Caste (SC)
 status.
 2. Income Certificate of Parent/Guardian:
-o Issued by the competen---------------nt’s Scheduled Caste (SC)
-status.
-2. Income Certificate of Parent/Guardian:
 o Issued by the competent authority confirming the family’s annual income.
 o If the father is deceased, a death certificate must be uploaded.
 o If parents are divorced, the divorce order/certificate and mother’s income
 certificate must be uploaded.
 o If the parent is a government employee, Form-16 (Income Tax Certificate) must
-also be uploaded.3. Academic Mark Sheets:
-o Class 10th mark sheet.
-o Mark sheets for all subseq---------------must
 also be uploaded.3. Academic Mark Sheets:
 o Class 10th mark sheet.
 o Mark sheets for all subsequent years of study (final mark sheet of each academic
@@ -315,14 +256,12 @@ o The first page of the bank passbook showing:
 o If a passbook is unavailable, a cancelled cheque with the same details must be
 uploaded.
 o If the student has changed their bank, details of the new bank account (new IFSC
-code and account number) must b---------------nt has changed their bank, details of the new bank account (new IFSC
 code and account number) must be provided.
 5. Academic Gap Certificate (If Applicable):
 o If a student has a gap in education (i.e., they did not study for a period after Class
 10), they must submit a self-declaration certificate confirming that they did not
 avail of any scholarships during the gap period.
 6. Hostel Certificate (For Hostel Students Only):
-o Students residing in hostels must download the Hostel Certificate from ---------------For Hostel Students Only):
 o Students residing in hostels must download the Hostel Certificate from the Digital
 Gujarat Portal.
 o The certificate must be signed and verified by the hostel warden before being
@@ -332,7 +271,6 @@ o If a student has a disability, a certificate issued by the competent authority
 uploaded.
 8. Annual Fee Receipt:
 o Students must upload a receipt of their annual tuition fee payment (not required
-for students applying under the Fr---------------pload a receipt of their annual tuition fee payment (not required
 for students applying under the Freeship Card Scheme).
 9. Passport-Size Photograph:
 o A recent passport-size photo of the student must be uploaded.
@@ -340,7 +278,6 @@ o A recent passport-size photo of the student must be uploaded.
  If required, a domicile certificate must be uploaded.
 11. Aadhaar and Ration Card Details:
  Aadhaar Card Number and Ration Card Number must be provided.12. Other Documents (If Required):
- If any additional documents are requested by the dis---------------e provided.12. Other Documents (If Required):
  If any additional documents are requested by the district authority, they must be
 submitted accordingly.
 13. Marriage Certificate:
@@ -350,8 +287,6 @@ Important Notes:
 o Students must scan and upload original copies of all required documents.
 o Only if an original document is unavailable, a clear photocopy can be uploaded
 with justification.
-2. Submission to Institut---------------ment is unavailable, a clear photocopy can be uploaded
-with justification.
 2. Submission to Institution:
 o After completing the online application, students must submit a printed copy of
 the application form along with copies of all uploaded documents to their
@@ -360,15 +295,12 @@ school/college/institution.
 Limit Female Assistance
 Details
 1 Post Matric 2.50 Male / Scholarship Students from classes 11-12 and college students, only
-Scholarship for SC Lakh---------------50 Male / Scholarship Students from classes 11-12 and college students, only
 Scholarship for SC Lakh Female up to Rs. for non-scholarship holders. Financial aid will be
 Students (GOI) 2.50 lakh transferred in two parts: 40% from the State
 (BCK-6.1) Government and 60% directly to the bank account of the
 student.
 -All schools/colleges/institutes should participate.
 Students are required to link their Aadhaar number with
-their bank account for verification purposes.
-1A Post Matric 2.50 Male Scholar---------------r Aadhaar number with
 their bank account for verification purposes.
 1A Post Matric 2.50 Male Scholarship Applicable only for students with a freeship card.
 Scholarship for SC Lakh or up to Rs. Financial aid will be transferred to the student's bank
@@ -377,7 +309,6 @@ Students (GOI) Female 2.50 lakh account from the 2021-22 academic year onwards.
 Students Only)
 (BCK-6.1)
 2 Food Bill Assistance 6.00 Male Rs. 1500/- Applicable for students residing in hostels at educational
-to SC Students Lakh or per m---------------e Rs. 1500/- Applicable for students residing in hostels at educational
 to SC Students Lakh or per month institutions (colleges) to cover food expenses
 (BCK-10) Female for 10
 months
@@ -386,11 +317,6 @@ Lakh or institutions. The student must have completed a
 Female minimum of one year of research work to be eligible.Fellowship Rs.
 Scheme for 2,50,000/
 M.Phil, Ph.D. for - for
-SC Students M.Phil
-(BCK-11) and Rs.
-1,00,000/
-- for Ph.D
-4 Instrumental Help 6.0---------------il, Ph.D. for - for
 SC Students M.Phil
 (BCK-11) and Rs.
 1,00,000/
@@ -405,8 +331,6 @@ Rs. 30,000/-
 for Diploma
 5 Scholarship/Stipend 6.00 Male Rs. 400/- For students enrolled in ITI or Professional courses.
 to SC Students for Lakh or per month
----------------s. 400/- For students enrolled in ITI or Professional courses.
-to SC Students for Lakh or per month
 ITI/Professional Female
 Courses (BCK-13)
 6 Post Matric 2.50 Only Scholarship Available for girls studying in classes 11-12 and college.
@@ -415,9 +339,6 @@ Girls Students Only Female 2.50 lakh
 (Having annual
 Family Income
 more than 2.50 Lac)
-(State Government
-Scheme) (BCK-5)
-6A Post Matric 2.50 Only Scholarship Applicable---------------ore than 2.50 Lac)
 (State Government
 Scheme) (BCK-5)
 6A Post Matric 2.50 Only Scholarship Applicable only for students with a freeship card. 50%
@@ -431,15 +352,13 @@ Scheme) (FreeShip
 Card Students Only)
 (BCK-5)
 7 Private Tuition 6.00 Male Rs. 15,000/- Available for students in the Science stream in classes 11
-Coaching Ass---------------ition 6.00 Male Rs. 15,000/- Available for students in the Science stream in classes 11
 Coaching Assistance Lakh or for students and 12 for private coaching assistance. Students must
 to SC Students Female in Std. 11, have obtained at least 70% in Std. 10.
 (Science Stream) Rs. 15,000/-
 (Std: 11-12) (BCK-7) for students
 in Std. 12
 8 Tablet Assistance to No limit Male Rs. 1,000/- Available for students who qualify under the scheme for
-SC Students (BCK- specified or receiving a tablet for educationa---------------ts who qualify under the scheme for
 SC Students (BCK- specified or receiving a tablet for educational use.
 353) Female Students will receive ₹1000 as part of the tablet scheme.Note: All the details are based on the provided description of each
 (
-scheme. The schemes are for SC students only.)---------------
+scheme. The schemes are for SC students only.)

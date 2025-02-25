@@ -2,9 +2,9 @@ import json
 
 
 chunks=[]
-with open("chunks_of_english_document_updated.txt",  'r', encoding='utf-8') as f:
+with open("structured_chunks.txt",  'r', encoding='utf-8') as f:
     pdf_text=f.read()
-    chunks=pdf_text.split("\n")
+    chunks=pdf_text.split("\n\n")
 
 metadata = [{"chunk_id": i, "text": chunk, "source": "scholarship_document_for_sc_students.pdf"} for i, chunk in enumerate(chunks)]
 

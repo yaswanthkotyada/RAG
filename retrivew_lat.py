@@ -42,7 +42,7 @@ co = cohere.Client(cohere_api_key)
 
 def generate_response_with_cohere(context, query):
     # Combine the context with the user's query for the input prompt
-    prompt = f"Here is some relevant information from the documents:\n{context}\n\nBased on this information, answer the following question:\n{query}"
+    prompt = f"Provide the accurate and detailed information to the user query. Here is some relevant information from the documents:\n{context}\n\nBased on this information, answer the following question:\n{query}"
 
     # Use Cohere's generate API to get a response
     response = co.generate(
