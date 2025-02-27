@@ -48,7 +48,7 @@ def generate_response_with_cohere(context, query):
     response = co.generate(
         model='command-xlarge',  # Use Cohere's largest model (adjust as necessary)
         prompt=prompt,
-        max_tokens=200,  # Adjust the response length as needed
+        max_tokens=500,  # Adjust the response length as needed
         temperature=0.7  # Controls the creativity of the response (higher = more creative)
     )
 
