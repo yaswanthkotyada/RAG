@@ -3,7 +3,7 @@ services:
     name: rag-chatbot
     env: python
     buildCommand: pip install -r requirements.txt
-    startCommand: gunicorn app:main
+    startCommand: gunicorn main:app
     plan: free
     envVars:
       - key: FLASK_ENV
