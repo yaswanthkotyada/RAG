@@ -1,3 +1,4 @@
+gunicorn
 cohere==5.13.12
 faiss_cpu==1.9.0.post1
 Flask==3.1.0
