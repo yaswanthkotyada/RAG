@@ -2,7 +2,7 @@ import json
 
 
 chunks=[]
-with open("structured_chunks.txt",  'r', encoding='utf-8') as f:
+with open("strctured_text_2.txt",  'r', encoding='utf-8') as f:
     pdf_text=f.read()
     chunks=pdf_text.split("\n\n")
 

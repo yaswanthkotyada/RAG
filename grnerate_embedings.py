@@ -3,12 +3,15 @@ import faiss
 import numpy as np
 
 # Load a pre-trained embedding model
-# model = SentenceTransformer('all-MiniLM-L6-v2') --- light weight model
-model = SentenceTransformer('all-mpnet-base-v2')   #better for retervial --
+# model = SentenceTransformer('all-MiniLM-L6-v2') --- light weight model 
+# model = SentenceTransformer('all-mpnet-base-v2')   #better for retervial --
+# model = SentenceTransformer('sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2')   #better for retervial --
+model = SentenceTransformer('paraphrase-multilingual-mpnet-base-v2')   #better for retervial --
+# model = SentenceTransformer('krutrim-ai-labs/Vyakyarth')   #better for retervial --
 
 def generate_embeddings_hf():
     chunks=[]
-    with open("structured_chunks.txt",  'r', encoding='utf-8') as f:
+    with open("strctured_text_2.txt",  'r', encoding='utf-8') as f:
         pdf_text=f.read()
         chunks=pdf_text.split("\n\n")
     print(f"total number of chunks:{len(chunks)}")

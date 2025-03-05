@@ -91,6 +91,7 @@ def semantic_chunking(text, max_chunk_size=512, min_chunk_size=50):
 
 # Load the PDF and apply chunking
 pdf_text = extract_text_from_pdf("english_document_updated_3.pdf")
+# pdf_text = extract_text_from_pdf("gujarati_doc_updated.pdf")
 print("pdf_text")
 chunks = semantic_chunking(pdf_text)
 
